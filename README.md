@@ -1,7 +1,7 @@
 # Pix2Pix Conditional GAN
 
 [![GitHub License](https://github.com/jasmeetsingh-028/Pix2Pix-Conditional-GAN)](https://github.com/jasmeetsingh-028/Pix2Pix-Conditional-GAN/blob/main/LICENSE)
-[![SOpen in Colab](https://img.shields.io/badge/Application-Stock%20News%20Analyzer-blue)](https://colab.research.google.com/drive/1MWXmdgEIcJL7t-0MM26nhWDRDea4nlzi)
+[![Open in Colab](https://img.shields.io/badge/Application-Stock%20News%20Analyzer-blue)](https://colab.research.google.com/drive/1MWXmdgEIcJL7t-0MM26nhWDRDea4nlzi)
 
 
 This project implements a Pix2Pix Conditional Generative Adversarial Network (GAN) to generate real images from facade images. It uses the power of deep learning to translate facade images into realistic building images.
